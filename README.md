@@ -35,8 +35,8 @@ Amazon Review Sentiment Analysis:: This project provides a GUI application to an
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yPayalLakra/your-repository.git
-   cd your-repository
+   https://github.com/PayalLakra/Sentiment-Analysis-Using-Python.git
+   cd Sentiment-Analysis-Using-Python
    ```
 
 2. **Install the Required Python Packages**
@@ -54,10 +54,8 @@ Amazon Review Sentiment Analysis:: This project provides a GUI application to an
    Execute the following command to start the application:
 
    ```bash
-   python your_script_name.py
+   python CodeSentimentAnalysis.py
    ```
-
-   Replace `your_script_name.py` with the name of the main script file.
 
 2. **Using the Application**
 
